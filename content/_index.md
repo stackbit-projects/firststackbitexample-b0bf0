@@ -5,7 +5,7 @@ sections:
     title: How can I add my Own Layouts
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctusandf
+      quis lorem malesuada luctusan
     actions:
       - label: Learn More
         url: /features
