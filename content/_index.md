@@ -2,7 +2,7 @@
 title: Is stackbit the way...?
 sections:
   - type: hero_section
-    title: How can I add my Own Layouts
+    title: How can I add my Own Layouts & CSS
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctusan
