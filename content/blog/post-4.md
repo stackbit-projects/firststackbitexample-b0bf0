@@ -1,5 +1,5 @@
 ---
-title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+title: ''
 date: '2020-05-30'
 author: data/team/dianne-ameter.json
 categories:
