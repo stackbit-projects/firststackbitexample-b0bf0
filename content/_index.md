@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Is stackbit the way
 sections:
   - type: hero_section
     title: This Is A Big Hero Headline
